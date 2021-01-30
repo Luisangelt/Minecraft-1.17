@@ -1,0 +1,20 @@
+{
+"Logical_Height" : 500, 
+ " infiniburn " : " minecraft: infiniburn_overworld " ,
+  " efectos " : " Minecraft: Overworld " ,
+  " luz_ambiente " : 0.0 ,
+  " bed_works " : verdadero ,
+  respawn_anchor_works " : falso ,
+  " has_raids " : verdadero ,
+  " ultrawarm " : falso ,
+  " min_y " : 0 ,
+  " altura " : 256 ,
+  " natural " : cierto ,
+  " escala_coordenadas " : 1.0 ,
+  " piglin_safe " : falso ,
+  " bed_works " : verdadero ,
+  " has_skylight " : verdadero ,
+  " has_ceiling " : falso
+  " has_ceiling " : falso ,
+  " ultrawarm " : falso
+} 
